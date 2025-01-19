@@ -172,13 +172,23 @@ Common issues and solutions:
 
 ## 📄 License
 
-MIT License - feel free to use this project for your own purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### MIT License Summary
+- ✅ Commercial use
+- ✅ Modification
+- ✅ Distribution
+- ✅ Private use
+- ⚠️ No liability
+- ⚠️ No warranty
+
+Copyright (c) 2025 Fahad Samara
 
 ## 👥 Contact
 
 - Create an issue for bug reports
 - Submit a pull request for contributions
-- Email: your.email@example.com
+
 
 ## 🙏 Acknowledgments
 
