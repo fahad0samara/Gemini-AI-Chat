@@ -57,8 +57,8 @@ A powerful and modern web-based chat application powered by Google's Gemini AI m
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gemini-chat.git
-cd gemini-chat
+git clone https://github.com/fahad0samara/Gemini-AI-Chat.git
+cd Gemini-AI-Chat
 ```
 
 2. Create a virtual environment:
